@@ -53,7 +53,7 @@ if ($row === false) {
 <html>
 <head>
     <?php require_once "bootstrap.php"; ?>
-    <title>Ziang Cui 's Login Page</title>
+    <title>Laxminarayan Naresh Sharma Login Page</title>
 </head>
 <body>
 <div class="container">
